@@ -1,4 +1,6 @@
-[![Build status]()]()
+[![Build status](https://ci.appveyor.com/api/projects/status/j4gwda8enj2smc10?svg=true)](https://ci.appveyor.com/project/kvrdv/ajs-homeworks-test-ci-task-1)
+
+
 
 ## Нетология
 ### 7. Продвинутый JavaScript: современные возможности языка
